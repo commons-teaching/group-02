@@ -10,7 +10,7 @@ ionization_mode: positive
 mapp_batch: mapp_batch_00248
 mapp_batch_description: Untargeted metabolomics, tp26 SBL. 200004, group-02
 mapp_project: mapp_project_00050
-noise_level: 100000.0
+noise_level: 500000.0
 repository_name: group-02
 stats_job_id: ''
 target_variable: source_taxon

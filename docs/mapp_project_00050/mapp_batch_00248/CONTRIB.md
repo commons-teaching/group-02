@@ -113,7 +113,7 @@ taxonomical-utils merge --input-file docs/mapp_project_00050/mapp_batch_00248/me
 ```bash
 ssh commons-server
 tmux a -t sirius
-cd ~/git_repos/mapp-metabolomics-unit/group-02/docs/mapp_project_00050/mapp_batch_00248/results
+cd ~/git_repos/commons-teaching/group-02/docs/mapp_project_00050/mapp_batch_00248/results
 ```
 
 ### Login

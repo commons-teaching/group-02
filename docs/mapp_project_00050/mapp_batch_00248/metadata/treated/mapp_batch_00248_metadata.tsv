@@ -5,14 +5,14 @@ filename	sample_id	sample_type	ATTRIBUTE_group	ATTRIBUTE_replicate	source_taxon
 20260424_CVOL_Group_02_1F12_3.mzML	1F12_3	sample	1F12	3	Pseudomonas chlororaphis
 20260424_CVOL_Group_02_1F12_4.mzML	1F12_4	sample	1F12	4	Pseudomonas chlororaphis
 20260424_CVOL_Group_02_Control_LB.mzML	Control_LB	sample	Control_LB	NA	NA
-20260424_CVOL_Group_02_Delta_phzC_1.mzML	Delta_phzC_1	sample	Delta_phzC	1	Pseudomonas chlororaphis
-20260424_CVOL_Group_02_Delta_phzC_2.mzML	Delta_phzC_2	sample	Delta_phzC	2	Pseudomonas chlororaphis
-20260424_CVOL_Group_02_Delta_phzC_3.mzML	Delta_phzC_3	sample	Delta_phzC	3	Pseudomonas chlororaphis
-20260424_CVOL_Group_02_Delta_phzC_4.mzML	Delta_phzC_4	sample	Delta_phzC	4	Pseudomonas chlororaphis
-20260424_CVOL_Group_02_Delta_pvdE_1.mzML	Delta_pvdE_1	sample	Delta_pvdE	1	Pseudomonas chlororaphis
-20260424_CVOL_Group_02_Delta_pvdE_2.mzML	Delta_pvdE_2	sample	Delta_pvdE	2	Pseudomonas chlororaphis
-20260424_CVOL_Group_02_Delta_pvdE_3.mzML	Delta_pvdE_3	sample	Delta_pvdE	3	Pseudomonas chlororaphis
-20260424_CVOL_Group_02_Delta_pvdE_4.mzML	Delta_pvdE_4	sample	Delta_pvdE	4	Pseudomonas chlororaphis
+20260424_CVOL_Group_02_Delta_phzC_1.mzML	phzC_1	sample	phzC	1	Pseudomonas chlororaphis
+20260424_CVOL_Group_02_Delta_phzC_2.mzML	phzC_2	sample	phzC	2	Pseudomonas chlororaphis
+20260424_CVOL_Group_02_Delta_phzC_3.mzML	phzC_3	sample	phzC	3	Pseudomonas chlororaphis
+20260424_CVOL_Group_02_Delta_phzC_4.mzML	phzC_4	sample	phzC	4	Pseudomonas chlororaphis
+20260424_CVOL_Group_02_Delta_pvdE_1.mzML	pvdE_1	sample	pvdE	1	Pseudomonas chlororaphis
+20260424_CVOL_Group_02_Delta_pvdE_2.mzML	pvdE_2	sample	pvdE	2	Pseudomonas chlororaphis
+20260424_CVOL_Group_02_Delta_pvdE_3.mzML	pvdE_3	sample	pvdE	3	Pseudomonas chlororaphis
+20260424_CVOL_Group_02_Delta_pvdE_4.mzML	pvdE_4	sample	pvdE	4	Pseudomonas chlororaphis
 20260424_CVOL_Group_02_QC_01.mzML	QC_01	QC	NA	NA	Pseudomonas chlororaphis
 20260424_CVOL_Group_02_QC_02.mzML	QC_02	QC	NA	NA	Pseudomonas chlororaphis
 20260424_CVOL_Group_02_QC_03.mzML	QC_03	QC	NA	NA	Pseudomonas chlororaphis

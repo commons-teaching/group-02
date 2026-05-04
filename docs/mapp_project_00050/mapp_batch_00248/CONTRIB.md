@@ -172,10 +172,10 @@ options:
   output_plots: True
   
 paths:
-  gnps_job_id:  # The GNPS job id you want to treat
-  input_folder: /home/voletco/git_repos/commons-teaching/group-02/docs/mapp_project_00050/mapp_batch_00248/results/met_annot_enhancer # The path were you want your GNPS job folder to be placed
+  gnps_job_id: 4392c1c13e394c7a8a720f3e3d10883d # The GNPS job id you want to treat
+  input_folder: /Users/voletco/git_repos/commons-teaching/group-02/docs/mapp_project_00050/mapp_batch_00248/results/met_annot_enhancer # The path were you want your GNPS job folder to be placed
   project_name: mapp_batch_00248 #ISDB_annot_LP_plantfungi_set # The name you want to give to your project, output resulst in data_out/project_name
-  output_folder: /home/voletco/git_repos/commons-teaching/group-02/docs/mapp_project_00050/mapp_batch_00248/results/met_annot_enhancer # the path for your output to be stored in
+  output_folder: /Users/voletco/git_repos/commons-teaching/group-02/docs/mapp_project_00050/mapp_batch_00248/results/met_annot_enhancer # the path for your output to be stored in
   metadata_path: /Users/pma/01_large_files/lotus/230106_frozen_metadata.csv # Path to the metadata of the spectral file /210715_inhouse_metadata.csv /211220_frozen_metadata.csv You can use multiple ones. Just list them as [a.csv, b.csv, c.csv]
   db_file_path: /Users/pma/01_large_files/mgf/isdb_pos_cleaned.pkl  # Path to your spectral library file. You can use multiple ones. Just list them as [a.mgf, b.mgf, c.mgf]
   adducts_pos_path: data_loc/230106_frozen_metadata/230106_frozen_metadata_adducts_pos.tsv.gz # Path to the adducts file in pos mode
@@ -228,7 +228,7 @@ filtering_params:
 conda activate met_annot_enhancer
 ```
 ```bash
-python /home/voletco/git_repos/commons-teaching/mandelbrot_project/met_annot_enhancer/src/dev/nb.py
+python /Users/voletco/git_repos/commons-teaching/mandelbrot_project/met_annot_enhancer/src/dev/nb.py
 ```
 
 ### Remove symlinks
@@ -236,7 +236,7 @@ This command should remove symlinks from the downloaded GNPS job folder (make su
 
 ```bash
 cd ./docs/mapp_project_00050/mapp_batch_00248
-find ./results/met_annot_enhancer/ -type l -exec rm {} +
+find ./results/met_annot_enhancer/4392c1c13e394c7a8a720f3e3d10883d -type l -exec rm {} +
 ```
 
 
@@ -246,8 +246,8 @@ find ./results/met_annot_enhancer/ -type l -exec rm {} +
 
 ```yaml
 paths:
-  docs: '/home/voletco/git_repos/commons-teaching/group-02/docs'
-  output: '/home/voletco/git_repos/commons-teaching/group-02/docs/mapp_project_00050/mapp_batch_00248/results/stats' # Not mandatory, default is in the stats subdirectory
+  docs: '/Users/voletco/git_repos/commons-teaching/group-02/docs'
+  output: '/Users/voletco/git_repos/commons-teaching/group-02/docs/mapp_project_00050/mapp_batch_00248/results/stats' # Not mandatory, default is in the stats subdirectory
 
 operating_system:
   system: unix # 
@@ -260,11 +260,11 @@ operating_system:
 mapp_project : mapp_project_00050
 mapp_batch : mapp_batch_00248
 met_annot_enhancer_folder : mapp_batch_00248
-gnps_job_id : 
+gnps_job_id : 4392c1c13e394c7a8a720f3e3d10883d
 
 dataset_experiment : 
   name: "mapp_batch_00248 LCMS metabolomics dataset"
-  description: "Untargeted metabolomics, tp26 SBL. 200004, group-02"
+  description: "Untargeted metabolomics, tp26 SBL. 200004, group-02 - C18"
 
 ms_files_extension: ".mzML"
 
@@ -457,7 +457,7 @@ feature_to_filter :
 Launch the scripts
 
 ``````bash
-Rscript /home/voletco/git_repos/commons-teaching/biostat_toolbox/src/biostat_toolbox.r
+Rscript /Users/voletco/git_repos/commons-teaching/biostat_toolbox/src/biostat_toolbox.r
 ```
 
 
@@ -485,11 +485,11 @@ cd ./docs/mapp_project_00050/mapp_batch_00248/
 #### Align horizontally
 
 ```bash
-met-annot-unifier-cli align-horizontally --canopus-file ./results/sirius/canopus_structure_summary.tsv --gnps-file ./results/met_annot_enhancer//nf_output/library/merged_results_with_gnps.tsv --gnps-mn-file ./results/met_annot_enhancer//nf_output/networking/clustersummary_with_network.tsv --sirius-file ./results/sirius/structure_identifications.tsv --isdb-file ./results/met_annot_enhancer/mapp_batch_00248/mapp_batch_00248_spectral_match_results_repond_flat.tsv --output ./results/tmp/mapp_batch_00248_met_annot_unified_horizontal.tsv
+met-annot-unifier-cli align-horizontally --canopus-file ./results/sirius/canopus_structure_summary.tsv --gnps-file ./results/met_annot_enhancer/4392c1c13e394c7a8a720f3e3d10883d/nf_output/library/merged_results_with_gnps.tsv --gnps-mn-file ./results/met_annot_enhancer/4392c1c13e394c7a8a720f3e3d10883d/nf_output/networking/clustersummary_with_network.tsv --sirius-file ./results/sirius/structure_identifications.tsv --isdb-file ./results/met_annot_enhancer/mapp_batch_00248/mapp_batch_00248_spectral_match_results_repond_flat.tsv --output ./results/tmp/mapp_batch_00248_met_annot_unified_horizontal.tsv
 ```
 
 #### Align vertically
 
 ```bash
-met-annot-unifier-cli align-vertically  --gnps-file ./results/met_annot_enhancer//nf_output/library/merged_results_with_gnps.tsv --isdb-file ./results/met_annot_enhancer/mapp_batch_00248/mapp_batch_00248_spectral_match_results_repond_flat.tsv --sirius-file ./results/sirius/structure_identifications.tsv  --output ./results/tmp/mapp_batch_00248_met_annot_unified_vertical.tsv
+met-annot-unifier-cli align-vertically  --gnps-file ./results/met_annot_enhancer/4392c1c13e394c7a8a720f3e3d10883d/nf_output/library/merged_results_with_gnps.tsv --isdb-file ./results/met_annot_enhancer/mapp_batch_00248/mapp_batch_00248_spectral_match_results_repond_flat.tsv --sirius-file ./results/sirius/structure_identifications.tsv  --output ./results/tmp/mapp_batch_00248_met_annot_unified_vertical.tsv
 ```

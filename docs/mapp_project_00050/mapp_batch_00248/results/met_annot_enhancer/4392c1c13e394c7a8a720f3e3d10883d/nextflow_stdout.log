@@ -1,0 +1,1022 @@
+
+ N E X T F L O W   ~  version 24.04.4
+
+Launching `/app/workflows_user/feature_based_molecular_networking_workflow/nf_workflow.nf` [focused_thompson] DSL2 - revision: 4f081d111f
+
+[-        ] filesummary                    -
+[-        ] qua…fication_table_reformatted -
+[-        ] filter_spectra                 -
+[-        ] librarySearchData              -
+
+[-        ] filesummary                    -
+[-        ] qua…fication_table_reformatted -
+[-        ] filter_spectra                 -
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[-        ] summaryLibrary                 -
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[-        ] createMetadataFile             -
+[-        ] calculateGroupings             -
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[-        ] createTallRawData              -
+[-        ] createMztabOutput              -
+
+executor >  slurm (1)
+[-        ] filesummary                    | 0 of 1
+[-        ] qua…fication_table_reformatted | 0 of 1
+[-        ] filter_spectra                 -
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[5e/2abe73] summaryLibrary (10)            | 0 of 47
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[-        ] createMetadataFile             | 0 of 1
+[-        ] calculateGroupings             -
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[-        ] createTallRawData              -
+[-        ] createMztabOutput              -
+
+executor >  slurm (9)
+[-        ] filesummary                    | 0 of 1
+[13/c9a72e] qua…tion_table_reformatted (1) | 0 of 1
+[-        ] filter_spectra                 -
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[1a/a9f44a] summaryLibrary (5)             | 0 of 75
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[e5/0fe518] createMetadataFile             | 0 of 1
+[-        ] calculateGroupings             -
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[-        ] createTallRawData              -
+[-        ] createMztabOutput              -
+
+executor >  slurm (19)
+[c7/304ca4] filesummary (1)                | 0 of 1
+[13/c9a72e] qua…tion_table_reformatted (1) | 0 of 1
+[-        ] filter_spectra                 -
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[e3/bf7157] summaryLibrary (1)             | 0 of 75
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[e5/0fe518] createMetadataFile             | 0 of 1
+[-        ] calculateGroupings             -
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[-        ] createTallRawData              -
+[-        ] createMztabOutput              -
+
+executor >  slurm (20)
+[c7/304ca4] filesummary (1)                | 0 of 1
+[13/c9a72e] qua…tion_table_reformatted (1) | 0 of 1
+[-        ] filter_spectra                 -
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[98/8a7a9e] summaryLibrary (12)            | 1 of 75
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[e5/0fe518] createMetadataFile             | 0 of 1
+[-        ] calculateGroupings             -
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[-        ] createTallRawData              -
+[-        ] createMztabOutput              -
+
+executor >  slurm (23)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[-        ] filter_spectra                 | 0 of 1
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[ce/86355e] summaryLibrary (19)            | 16 of 75
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[-        ] calculateGroupings             | 0 of 1
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[-        ] createTallRawData              | 0 of 1
+[-        ] createMztabOutput              -
+
+executor >  slurm (27)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[-        ] filter_spectra                 | 0 of 1
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[dc/26e858] summaryLibrary (24)            | 16 of 75
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[-        ] calculateGroupings             | 0 of 1
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[-        ] createTallRawData              | 0 of 1
+[-        ] createMztabOutput              -
+
+executor >  slurm (32)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[-        ] filter_spectra                 | 0 of 1
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[7f/23c64d] summaryLibrary (29)            | 16 of 75
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[-        ] calculateGroupings             | 0 of 1
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[-        ] createTallRawData              | 0 of 1
+[-        ] createMztabOutput              -
+
+executor >  slurm (37)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[-        ] filter_spectra                 | 0 of 1
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[27/30db8a] summaryLibrary (32)            | 16 of 75
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 0 of 1
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 0 of 1
+[-        ] createMztabOutput              -
+
+executor >  slurm (38)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 0 of 1
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[27/30db8a] summaryLibrary (32)            | 16 of 75
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 0 of 1
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 0 of 1
+[-        ] createMztabOutput              -
+
+executor >  slurm (39)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 0 of 1
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[4e/b15353] summaryLibrary (26)            | 26 of 75
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 0 of 1
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 0 of 1
+[-        ] createMztabOutput              -
+
+executor >  slurm (45)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[-        ] librarySearchData              | 0 of 64
+[-        ] librarymergeResults            -
+[5b/b2010d] summaryLibrary (39)            | 30 of 75
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       | 0 of 1
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[-        ] createMztabOutput              -
+
+executor >  slurm (49)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[-        ] librarySearchData              | 0 of 75
+[-        ] librarymergeResults            -
+[9d/22fb3d] summaryLibrary (42)            | 30 of 75
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       | 0 of 1
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[-        ] createMztabOutput              -
+
+executor >  slurm (55)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[77/488d75] librarySearchData (5)          | 0 of 75
+[-        ] librarymergeResults            -
+[4e/c65502] summaryLibrary (46)            | 30 of 75
+[-        ] librarygetGNPSAnnotations      -
+[d4/875893] networkingGNPSPrepParams (1)   | 0 of 1
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[-        ] createMztabOutput              -
+
+executor >  slurm (59)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[cb/2a17a4] librarySearchData (7)          | 0 of 75
+[-        ] librarymergeResults            -
+[4e/c65502] summaryLibrary (46)            | 30 of 75
+[-        ] librarygetGNPSAnnotations      -
+[d4/875893] networkingGNPSPrepParams (1)   | 0 of 1
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[-        ] createMztabOutput              -
+
+executor >  slurm (68)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[b7/e6298b] librarySearchData (3)          | 0 of 75
+[-        ] librarymergeResults            -
+[4e/c65502] summaryLibrary (46)            | 30 of 75
+[-        ] librarygetGNPSAnnotations      -
+[d4/875893] networkingGNPSPrepParams (1)   | 0 of 1
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[-        ] createMztabOutput              -
+
+executor >  slurm (69)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[52/4849c3] librarySearchData (14)         | 0 of 75
+[-        ] librarymergeResults            -
+[4e/c65502] summaryLibrary (46)            | 30 of 75
+[-        ] librarygetGNPSAnnotations      -
+[d4/875893] networkingGNPSPrepParams (1)   | 0 of 1
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[-        ] createMztabOutput              -
+
+executor >  slurm (71)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[52/4849c3] librarySearchData (14)         | 0 of 75
+[-        ] librarymergeResults            -
+[2f/8dc5b0] summaryLibrary (48)            | 40 of 75
+[-        ] librarygetGNPSAnnotations      -
+[d4/875893] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[-        ] calculatePairs                 | 0 of 2
+[-        ] filterNetwork                  -
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[-        ] createMztabOutput              -
+
+executor >  slurm (79)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[52/4849c3] librarySearchData (14)         | 0 of 75
+[-        ] librarymergeResults            -
+[7b/dcae1b] summaryLibrary (56)            | 40 of 75
+[-        ] librarygetGNPSAnnotations      -
+[d4/875893] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[-        ] calculatePairs                 | 0 of 2
+[-        ] filterNetwork                  -
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[-        ] createMztabOutput              -
+
+executor >  slurm (81)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[52/4849c3] librarySearchData (14)         | 0 of 75
+[-        ] librarymergeResults            -
+[7b/dcae1b] summaryLibrary (56)            | 40 of 75
+[-        ] librarygetGNPSAnnotations      -
+[d4/875893] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[b0/f8d2d4] calculatePairs (1)             | 0 of 2
+[-        ] filterNetwork                  -
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[-        ] createMztabOutput              -
+
+executor >  slurm (85)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[93/2ce31a] librarySearchData (8)          | 11 of 75
+[-        ] librarymergeResults            -
+[2c/256882] summaryLibrary (60)            | 52 of 75
+[-        ] librarygetGNPSAnnotations      -
+[d4/875893] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[b0/f8d2d4] calculatePairs (1)             | 0 of 2
+[-        ] filterNetwork                  -
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[-        ] createMztabOutput              -
+
+executor >  slurm (89)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[93/2ce31a] librarySearchData (8)          | 11 of 75
+[-        ] librarymergeResults            -
+[58/2568eb] summaryLibrary (65)            | 52 of 75
+[-        ] librarygetGNPSAnnotations      -
+[d4/875893] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[b0/f8d2d4] calculatePairs (1)             | 0 of 2
+[-        ] filterNetwork                  -
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[-        ] createMztabOutput              -
+
+executor >  slurm (91)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[93/2ce31a] librarySearchData (8)          | 11 of 75
+[-        ] librarymergeResults            -
+[76/96ab98] summaryLibrary (66)            | 52 of 75
+[-        ] librarygetGNPSAnnotations      -
+[d4/875893] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[b0/f8d2d4] calculatePairs (1)             | 0 of 2
+[-        ] filterNetwork                  -
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[-        ] createMztabOutput              -
+
+executor >  slurm (100)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[f3/80abd8] librarySearchData (22)         | 11 of 75
+[-        ] librarymergeResults            -
+[f9/fac7e1] summaryLibrary (68)            | 52 of 75
+[-        ] librarygetGNPSAnnotations      -
+[d4/875893] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[b0/f8d2d4] calculatePairs (1)             | 0 of 2
+[-        ] filterNetwork                  -
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[-        ] createMztabOutput              -
+
+executor >  slurm (104)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[37/4ae239] librarySearchData (27)         | 11 of 75
+[-        ] librarymergeResults            -
+[f9/fac7e1] summaryLibrary (68)            | 52 of 75
+[-        ] librarygetGNPSAnnotations      -
+[d4/875893] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[b0/f8d2d4] calculatePairs (1)             | 0 of 2
+[-        ] filterNetwork                  -
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[-        ] createMztabOutput              -
+
+executor >  slurm (108)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[f3/80abd8] librarySearchData (22)         | 14 of 75
+[-        ] librarymergeResults            -
+[fd/3feef4] summaryLibrary (73)            | 62 of 75
+[-        ] librarygetGNPSAnnotations      -
+[d4/875893] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[11/cc2e6a] calculatePairs (2)             | 1 of 2
+[-        ] filterNetwork                  -
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[-        ] createMztabOutput              -
+
+executor >  slurm (114)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[e3/77bfeb] librarySearchData (31)         | 14 of 75
+[-        ] librarymergeResults            -
+[96/f33cf9] summaryLibrary (72)            | 62 of 75
+[-        ] librarygetGNPSAnnotations      -
+[d4/875893] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[11/cc2e6a] calculatePairs (2)             | 1 of 2
+[-        ] filterNetwork                  -
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[-        ] createMztabOutput              -
+
+executor >  slurm (119)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[6c/35571b] librarySearchData (35)         | 20 of 75
+[-        ] librarymergeResults            -
+[96/f33cf9] summaryLibrary (72)            | 70 of 75
+[-        ] librarygetGNPSAnnotations      -
+[d4/875893] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[b0/f8d2d4] calculatePairs (1)             | 2 of 2 ✔
+[-        ] filterNetwork                  | 0 of 1
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[-        ] createMztabOutput              -
+
+executor >  slurm (121)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[0c/da558a] librarySearchData (36)         | 20 of 75
+[-        ] librarymergeResults            -
+[96/f33cf9] summaryLibrary (72)            | 70 of 75
+[-        ] librarygetGNPSAnnotations      -
+[d4/875893] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[b0/f8d2d4] calculatePairs (1)             | 2 of 2 ✔
+[1e/cecb8b] filterNetwork (1)              | 0 of 1
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[-        ] createMztabOutput              -
+
+executor >  slurm (129)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[62/40f895] librarySearchData (43)         | 28 of 75
+[-        ] librarymergeResults            -
+[96/f33cf9] summaryLibrary (72)            | 70 of 75
+[-        ] librarygetGNPSAnnotations      -
+[d4/875893] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[b0/f8d2d4] calculatePairs (1)             | 2 of 2 ✔
+[1e/cecb8b] filterNetwork (1)              | 1 of 1 ✔
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[-        ] createMztabOutput              -
+
+executor >  slurm (129)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[83/22cc47] librarySearchData (44)         | 28 of 75
+[-        ] librarymergeResults            -
+[96/f33cf9] summaryLibrary (72)            | 70 of 75
+[-        ] librarygetGNPSAnnotations      -
+[d4/875893] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[b0/f8d2d4] calculatePairs (1)             | 2 of 2 ✔
+[1e/cecb8b] filterNetwork (1)              | 1 of 1 ✔
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[-        ] createMztabOutput              -
+
+executor >  slurm (135)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[39/b286e2] librarySearchData (49)         | 34 of 75
+[-        ] librarymergeResults            -
+[58/e44dee] summaryLibrary (75)            | 72 of 75
+[-        ] librarygetGNPSAnnotations      -
+[d4/875893] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[b0/f8d2d4] calculatePairs (1)             | 2 of 2 ✔
+[1e/cecb8b] filterNetwork (1)              | 1 of 1 ✔
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[-        ] createMztabOutput              -
+
+executor >  slurm (139)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[ba/15b2c7] librarySearchData (54)         | 38 of 75
+[-        ] librarymergeResults            -
+[60/bb10c6] summaryLibrary (62)            | 73 of 75
+[-        ] librarygetGNPSAnnotations      -
+[d4/875893] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[b0/f8d2d4] calculatePairs (1)             | 2 of 2 ✔
+[1e/cecb8b] filterNetwork (1)              | 1 of 1 ✔
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[-        ] createMztabOutput              -
+
+executor >  slurm (139)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[f1/81c45e] librarySearchData (48)         | 42 of 75
+[-        ] librarymergeResults            -
+[f9/fac7e1] summaryLibrary (68)            | 75 of 75 ✔
+[-        ] librarygetGNPSAnnotations      -
+[d4/875893] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[b0/f8d2d4] calculatePairs (1)             | 2 of 2 ✔
+[1e/cecb8b] filterNetwork (1)              | 1 of 1 ✔
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[-        ] createMztabOutput              -
+
+executor >  slurm (145)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[44/8ca1d6] librarySearchData (60)         | 44 of 75
+[-        ] librarymergeResults            -
+[f9/fac7e1] summaryLibrary (68)            | 75 of 75 ✔
+[-        ] librarygetGNPSAnnotations      -
+[d4/875893] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[b0/f8d2d4] calculatePairs (1)             | 2 of 2 ✔
+[1e/cecb8b] filterNetwork (1)              | 1 of 1 ✔
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[-        ] createMztabOutput              -
+
+executor >  slurm (147)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[89/0f567d] librarySearchData (63)         | 52 of 75
+[-        ] librarymergeResults            -
+[f9/fac7e1] summaryLibrary (68)            | 75 of 75 ✔
+[-        ] librarygetGNPSAnnotations      -
+[d4/875893] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[b0/f8d2d4] calculatePairs (1)             | 2 of 2 ✔
+[1e/cecb8b] filterNetwork (1)              | 1 of 1 ✔
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[-        ] createMztabOutput              -
+
+executor >  slurm (153)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[2d/954990] librarySearchData (69)         | 52 of 75
+[-        ] librarymergeResults            -
+[f9/fac7e1] summaryLibrary (68)            | 75 of 75 ✔
+[-        ] librarygetGNPSAnnotations      -
+[d4/875893] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[b0/f8d2d4] calculatePairs (1)             | 2 of 2 ✔
+[1e/cecb8b] filterNetwork (1)              | 1 of 1 ✔
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[-        ] createMztabOutput              -
+
+executor >  slurm (156)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[82/c1a701] librarySearchData (72)         | 57 of 75
+[-        ] librarymergeResults            -
+[f9/fac7e1] summaryLibrary (68)            | 75 of 75 ✔
+[-        ] librarygetGNPSAnnotations      -
+[d4/875893] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[b0/f8d2d4] calculatePairs (1)             | 2 of 2 ✔
+[1e/cecb8b] filterNetwork (1)              | 1 of 1 ✔
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[-        ] createMztabOutput              -
+
+executor >  slurm (158)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[c0/99119e] librarySearchData (73)         | 57 of 75
+[-        ] librarymergeResults            -
+[f9/fac7e1] summaryLibrary (68)            | 75 of 75 ✔
+[-        ] librarygetGNPSAnnotations      -
+[d4/875893] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[b0/f8d2d4] calculatePairs (1)             | 2 of 2 ✔
+[1e/cecb8b] filterNetwork (1)              | 1 of 1 ✔
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[-        ] createMztabOutput              -
+
+executor >  slurm (160)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[45/8089dd] librarySearchData (74)         | 60 of 75
+[-        ] librarymergeResults            -
+[f9/fac7e1] summaryLibrary (68)            | 75 of 75 ✔
+[-        ] librarygetGNPSAnnotations      -
+[d4/875893] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[b0/f8d2d4] calculatePairs (1)             | 2 of 2 ✔
+[1e/cecb8b] filterNetwork (1)              | 1 of 1 ✔
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[-        ] createMztabOutput              -
+
+executor >  slurm (160)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[ec/08c3fd] librarySearchData (71)         | 65 of 75
+[-        ] librarymergeResults            -
+[f9/fac7e1] summaryLibrary (68)            | 75 of 75 ✔
+[-        ] librarygetGNPSAnnotations      -
+[d4/875893] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[b0/f8d2d4] calculatePairs (1)             | 2 of 2 ✔
+[1e/cecb8b] filterNetwork (1)              | 1 of 1 ✔
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[-        ] createMztabOutput              -
+
+executor >  slurm (160)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[e3/77bfeb] librarySearchData (31)         | 68 of 75
+[-        ] librarymergeResults            -
+[f9/fac7e1] summaryLibrary (68)            | 75 of 75 ✔
+[-        ] librarygetGNPSAnnotations      -
+[d4/875893] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[b0/f8d2d4] calculatePairs (1)             | 2 of 2 ✔
+[1e/cecb8b] filterNetwork (1)              | 1 of 1 ✔
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[-        ] createMztabOutput              -
+
+executor >  slurm (160)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[cc/a0bfa1] librarySearchData (1)          | 69 of 75
+[-        ] librarymergeResults            -
+[f9/fac7e1] summaryLibrary (68)            | 75 of 75 ✔
+[-        ] librarygetGNPSAnnotations      -
+[d4/875893] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[b0/f8d2d4] calculatePairs (1)             | 2 of 2 ✔
+[1e/cecb8b] filterNetwork (1)              | 1 of 1 ✔
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[-        ] createMztabOutput              -
+
+executor >  slurm (160)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[c0/99119e] librarySearchData (73)         | 70 of 75
+[-        ] librarymergeResults            -
+[f9/fac7e1] summaryLibrary (68)            | 75 of 75 ✔
+[-        ] librarygetGNPSAnnotations      -
+[d4/875893] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[b0/f8d2d4] calculatePairs (1)             | 2 of 2 ✔
+[1e/cecb8b] filterNetwork (1)              | 1 of 1 ✔
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[-        ] createMztabOutput              -
+
+executor >  slurm (160)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[dd/d22d51] librarySearchData (50)         | 71 of 75
+[-        ] librarymergeResults            -
+[f9/fac7e1] summaryLibrary (68)            | 75 of 75 ✔
+[-        ] librarygetGNPSAnnotations      -
+[d4/875893] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[b0/f8d2d4] calculatePairs (1)             | 2 of 2 ✔
+[1e/cecb8b] filterNetwork (1)              | 1 of 1 ✔
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[-        ] createMztabOutput              -
+
+executor >  slurm (160)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[a5/eb1fa4] librarySearchData (10)         | 73 of 75
+[-        ] librarymergeResults            -
+[f9/fac7e1] summaryLibrary (68)            | 75 of 75 ✔
+[-        ] librarygetGNPSAnnotations      -
+[d4/875893] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[b0/f8d2d4] calculatePairs (1)             | 2 of 2 ✔
+[1e/cecb8b] filterNetwork (1)              | 1 of 1 ✔
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[-        ] createMztabOutput              -
+
+executor >  slurm (160)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[79/50d761] librarySearchData (62)         | 74 of 75
+[-        ] librarymergeResults            -
+[f9/fac7e1] summaryLibrary (68)            | 75 of 75 ✔
+[-        ] librarygetGNPSAnnotations      -
+[d4/875893] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[b0/f8d2d4] calculatePairs (1)             | 2 of 2 ✔
+[1e/cecb8b] filterNetwork (1)              | 1 of 1 ✔
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[-        ] createMztabOutput              -
+
+executor >  slurm (161)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[7a/4588fe] librarySearchData (68)         | 75 of 75 ✔
+[12/c9d160] librarymergeResults            | 0 of 1
+[f9/fac7e1] summaryLibrary (68)            | 75 of 75 ✔
+[-        ] librarygetGNPSAnnotations      -
+[d4/875893] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[b0/f8d2d4] calculatePairs (1)             | 2 of 2 ✔
+[1e/cecb8b] filterNetwork (1)              | 1 of 1 ✔
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[-        ] createMztabOutput              -
+
+executor >  slurm (161)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[7a/4588fe] librarySearchData (68)         | 75 of 75 ✔
+[12/c9d160] librarymergeResults            | 0 of 1
+[f9/fac7e1] summaryLibrary (68)            | 75 of 75 ✔
+[-        ] librarygetGNPSAnnotations      -
+[d4/875893] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[b0/f8d2d4] calculatePairs (1)             | 2 of 2 ✔
+[1e/cecb8b] filterNetwork (1)              | 1 of 1 ✔
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[-        ] createMztabOutput              -
+
+executor >  slurm (162)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[7a/4588fe] librarySearchData (68)         | 75 of 75 ✔
+[12/c9d160] librarymergeResults            | 1 of 1 ✔
+[f9/fac7e1] summaryLibrary (68)            | 75 of 75 ✔
+[86/c8097a] librarygetGNPSAnnotations (1)  | 0 of 1
+[d4/875893] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[b0/f8d2d4] calculatePairs (1)             | 2 of 2 ✔
+[1e/cecb8b] filterNetwork (1)              | 1 of 1 ✔
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[-        ] createMztabOutput              -
+
+executor >  slurm (162)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[7a/4588fe] librarySearchData (68)         | 75 of 75 ✔
+[12/c9d160] librarymergeResults            | 1 of 1 ✔
+[f9/fac7e1] summaryLibrary (68)            | 75 of 75 ✔
+[86/c8097a] librarygetGNPSAnnotations (1)  | 0 of 1
+[d4/875893] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[b0/f8d2d4] calculatePairs (1)             | 2 of 2 ✔
+[1e/cecb8b] filterNetwork (1)              | 1 of 1 ✔
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[-        ] createMztabOutput              -
+
+executor >  slurm (163)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[7a/4588fe] librarySearchData (68)         | 75 of 75 ✔
+[12/c9d160] librarymergeResults            | 1 of 1 ✔
+[f9/fac7e1] summaryLibrary (68)            | 75 of 75 ✔
+[86/c8097a] librarygetGNPSAnnotations (1)  | 1 of 1 ✔
+[d4/875893] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[b0/f8d2d4] calculatePairs (1)             | 2 of 2 ✔
+[1e/cecb8b] filterNetwork (1)              | 1 of 1 ✔
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[6b/7ab001] enrichClusterSummary (1)       | 0 of 1
+[-        ] createNetworkGraphML           -
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[-        ] createMztabOutput              -
+
+executor >  slurm (165)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[7a/4588fe] librarySearchData (68)         | 75 of 75 ✔
+[12/c9d160] librarymergeResults            | 1 of 1 ✔
+[f9/fac7e1] summaryLibrary (68)            | 75 of 75 ✔
+[86/c8097a] librarygetGNPSAnnotations (1)  | 1 of 1 ✔
+[d4/875893] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[b0/f8d2d4] calculatePairs (1)             | 2 of 2 ✔
+[1e/cecb8b] filterNetwork (1)              | 1 of 1 ✔
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[6b/7ab001] enrichClusterSummary (1)       | 1 of 1 ✔
+[cf/46a376] createNetworkGraphML (1)       | 0 of 1
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[-        ] createMztabOutput              | 0 of 1
+
+executor >  slurm (165)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[7a/4588fe] librarySearchData (68)         | 75 of 75 ✔
+[12/c9d160] librarymergeResults            | 1 of 1 ✔
+[f9/fac7e1] summaryLibrary (68)            | 75 of 75 ✔
+[86/c8097a] librarygetGNPSAnnotations (1)  | 1 of 1 ✔
+[d4/875893] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[b0/f8d2d4] calculatePairs (1)             | 2 of 2 ✔
+[1e/cecb8b] filterNetwork (1)              | 1 of 1 ✔
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[6b/7ab001] enrichClusterSummary (1)       | 1 of 1 ✔
+[cf/46a376] createNetworkGraphML (1)       | 0 of 1
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[38/9694f6] createMztabOutput (1)          | 0 of 1
+
+executor >  slurm (165)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[7a/4588fe] librarySearchData (68)         | 75 of 75 ✔
+[12/c9d160] librarymergeResults            | 1 of 1 ✔
+[f9/fac7e1] summaryLibrary (68)            | 75 of 75 ✔
+[86/c8097a] librarygetGNPSAnnotations (1)  | 1 of 1 ✔
+[d4/875893] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[b0/f8d2d4] calculatePairs (1)             | 2 of 2 ✔
+[1e/cecb8b] filterNetwork (1)              | 1 of 1 ✔
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[6b/7ab001] enrichClusterSummary (1)       | 1 of 1 ✔
+[cf/46a376] createNetworkGraphML (1)       | 1 of 1 ✔
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[38/9694f6] createMztabOutput (1)          | 1 of 1 ✔
+
+executor >  slurm (165)
+[c7/304ca4] filesummary (1)                | 1 of 1 ✔
+[13/c9a72e] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[75/9a18b0] filter_spectra (1)             | 1 of 1 ✔
+[7a/4588fe] librarySearchData (68)         | 75 of 75 ✔
+[12/c9d160] librarymergeResults            | 1 of 1 ✔
+[f9/fac7e1] summaryLibrary (68)            | 75 of 75 ✔
+[86/c8097a] librarygetGNPSAnnotations (1)  | 1 of 1 ✔
+[d4/875893] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[b0/f8d2d4] calculatePairs (1)             | 2 of 2 ✔
+[1e/cecb8b] filterNetwork (1)              | 1 of 1 ✔
+[e5/0fe518] createMetadataFile             | 1 of 1 ✔
+[6c/b0a219] calculateGroupings (1)         | 1 of 1 ✔
+[6b/7ab001] enrichClusterSummary (1)       | 1 of 1 ✔
+[cf/46a376] createNetworkGraphML (1)       | 1 of 1 ✔
+[d1/fcab07] createTallRawData (1)          | 1 of 1 ✔
+[38/9694f6] createMztabOutput (1)          | 1 of 1 ✔
+Completed at: 04-May-2026 11:28:10
+Duration    : 7m 2s
+CPU hours   : 0.4
+Succeeded   : 165
+
+

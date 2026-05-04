@@ -1,0 +1,25 @@
+filename	sample_id	sample_type	ATTRIBUTE_group	ATTRIBUTE_replicate	source_taxon
+20260424_CVOL_bk_mapp_03.mzML	bk_mapp_03	blank			
+20260424_CVOL_Group_02_1F12_1.mzML	1F12_1	sample	1F12	1.0	Pseudomonas chlororaphis
+20260424_CVOL_Group_02_1F12_2.mzML	1F12_2	sample	1F12	2.0	Pseudomonas chlororaphis
+20260424_CVOL_Group_02_1F12_3.mzML	1F12_3	sample	1F12	3.0	Pseudomonas chlororaphis
+20260424_CVOL_Group_02_1F12_4.mzML	1F12_4	sample	1F12	4.0	Pseudomonas chlororaphis
+20260424_CVOL_Group_02_Control_LB.mzML	Control_LB	sample	Control_LB		
+20260424_CVOL_Group_02_Delta_phzC_1.mzML	phzC_1	sample	phzC	1.0	Pseudomonas chlororaphis
+20260424_CVOL_Group_02_Delta_phzC_2.mzML	phzC_2	sample	phzC	2.0	Pseudomonas chlororaphis
+20260424_CVOL_Group_02_Delta_phzC_3.mzML	phzC_3	sample	phzC	3.0	Pseudomonas chlororaphis
+20260424_CVOL_Group_02_Delta_phzC_4.mzML	phzC_4	sample	phzC	4.0	Pseudomonas chlororaphis
+20260424_CVOL_Group_02_Delta_pvdE_1.mzML	pvdE_1	sample	pvdE	1.0	Pseudomonas chlororaphis
+20260424_CVOL_Group_02_Delta_pvdE_2.mzML	pvdE_2	sample	pvdE	2.0	Pseudomonas chlororaphis
+20260424_CVOL_Group_02_Delta_pvdE_3.mzML	pvdE_3	sample	pvdE	3.0	Pseudomonas chlororaphis
+20260424_CVOL_Group_02_Delta_pvdE_4.mzML	pvdE_4	sample	pvdE	4.0	Pseudomonas chlororaphis
+20260424_CVOL_Group_02_QC_01.mzML	QC_01	QC			Pseudomonas chlororaphis
+20260424_CVOL_Group_02_QC_02.mzML	QC_02	QC			Pseudomonas chlororaphis
+20260424_CVOL_Group_02_QC_03.mzML	QC_03	QC			Pseudomonas chlororaphis
+20260424_CVOL_Group_02_QC_04.mzML	QC_04	QC			Pseudomonas chlororaphis
+20260424_CVOL_Group_02_QC_05.mzML	QC_05	QC			Pseudomonas chlororaphis
+20260424_CVOL_Group_02_QC_06.mzML	QC_06	QC			Pseudomonas chlororaphis
+20260424_CVOL_Group_02_R47_1.mzML	R47_1	sample	R47	1.0	Pseudomonas chlororaphis
+20260424_CVOL_Group_02_R47_2.mzML	R47_2	sample	R47	2.0	Pseudomonas chlororaphis
+20260424_CVOL_Group_02_R47_3.mzML	R47_3	sample	R47	3.0	Pseudomonas chlororaphis
+20260424_CVOL_Group_02_R47_4.mzML	R47_4	sample	R47	4.0	Pseudomonas chlororaphis

@@ -1,0 +1,57 @@
+{
+  "context": "Bacteria",
+  "governing_code": "ICNP",
+  "includes_approximate_matches": true,
+  "includes_deprecated_taxa": false,
+  "includes_suppressed_names": false,
+  "matched_names": [
+    "pseudomonas chlororaphis"
+  ],
+  "results": [
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Pseudomonas chlororaphis",
+          "nomenclature_code": "ICNP",
+          "score": 1.0,
+          "search_string": "pseudomonas chlororaphis",
+          "taxon": {
+            "flags": [
+              "sibling_higher"
+            ],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Pseudomonas chlororaphis",
+            "ott_id": 931635,
+            "rank": "species",
+            "source": "ott3.7draft3",
+            "synonyms": [
+              "Bacillus chlororaphis",
+              "Pseudomonas sp. UFB2"
+            ],
+            "tax_sources": [
+              "silva:FJ652611",
+              "ncbi:587753",
+              "irmng:10541718"
+            ],
+            "unique_name": "Pseudomonas chlororaphis"
+          }
+        }
+      ],
+      "name": "pseudomonas chlororaphis"
+    }
+  ],
+  "taxonomy": {
+    "author": "open tree of life project",
+    "name": "ott",
+    "source": "ott3.7draft3",
+    "version": "3.7",
+    "weburl": "https://tree.opentreeoflife.org/about/taxonomy-version/ott3.7"
+  },
+  "unambiguous_names": [
+    "pseudomonas chlororaphis"
+  ],
+  "unmatched_names": []
+}

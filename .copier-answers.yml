@@ -3,9 +3,9 @@ _src_path: gh:mapp-metabolomics-unit/mapp-repo-copier-template
 common_filename_pattern: '*20260428_CVOL_Group_02*.mzML'
 email: pierre-marie.allard@unifr.ch
 gap_filling: true
-git_repo_path: /home/voletco/git_repos/commons-teaching
+git_repo_path: /Users/voletco/git_repos/commons-teaching
 github_username: commons-teaching
-gnps_job_id: ''
+gnps_job_id: 8a522c9422024a008d7934e809503047
 ionization_mode: positive
 mapp_batch: mapp_batch_00252
 mapp_batch_description: Untargeted metabolomics, tp26 SBL. 200004, group-02 - HILIC

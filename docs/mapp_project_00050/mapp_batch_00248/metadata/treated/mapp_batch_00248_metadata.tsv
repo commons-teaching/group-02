@@ -4,7 +4,7 @@ filename	sample_id	sample_type	ATTRIBUTE_group	ATTRIBUTE_replicate	source_taxon
 20260424_CVOL_Group_02_1F12_2.mzML	1F12_2	sample	1F12	2	Pseudomonas chlororaphis
 20260424_CVOL_Group_02_1F12_3.mzML	1F12_3	sample	1F12	3	Pseudomonas chlororaphis
 20260424_CVOL_Group_02_1F12_4.mzML	1F12_4	sample	1F12	4	Pseudomonas chlororaphis
-20260424_CVOL_Group_02_Control_LB.mzML	Control_LB	sample	Control_LB	NA	NA
+20260424_CVOL_Group_02_Control_LB.mzML	Control_LB	media	Control_LB	NA	NA
 20260424_CVOL_Group_02_Delta_phzC_1.mzML	phzC_1	sample	phzC	1	Pseudomonas chlororaphis
 20260424_CVOL_Group_02_Delta_phzC_2.mzML	phzC_2	sample	phzC	2	Pseudomonas chlororaphis
 20260424_CVOL_Group_02_Delta_phzC_3.mzML	phzC_3	sample	phzC	3	Pseudomonas chlororaphis
